@@ -1,0 +1,11 @@
+.component{
+    width: 100%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgb(182, 162, 185);
+    border-radius: 10px;
+}
+
+.btn{
+    margin-bottom: 20px;
+}
